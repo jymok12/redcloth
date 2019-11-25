@@ -187,8 +187,8 @@ Will become:
 == Defining Acronyms
 
 HTML allows authors to define acronyms via the tag. The definition appears as a
-tool tip when a cursor hovers over the acronym. A crucial aid to clear writing,
-this should be used at least once for each acronym in documents where they appear.
+tool tip when a cursor hovers over the acronym. At least one of each acronym is 
+used as a crucial writing aid.
 
 To quickly define an acronym in Textile, place the full text in (parentheses)
 immediately following the acronym.
